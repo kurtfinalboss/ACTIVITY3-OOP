@@ -1,7 +1,5 @@
 package cc3.main;
 
-package student.cc3_task3;
-
 public class Student {
     private final int studentID;
     private final int age, yearLevel;
